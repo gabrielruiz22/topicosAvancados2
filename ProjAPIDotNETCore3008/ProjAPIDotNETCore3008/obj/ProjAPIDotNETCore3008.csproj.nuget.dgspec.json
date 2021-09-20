@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\source\\repos\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008.csproj": {}
+    "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\source\\repos\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008.csproj": {
+    "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008.csproj",
         "projectName": "ProjAPIDotNETCore3008",
-        "projectPath": "C:\\Users\\gabri\\source\\repos\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008.csproj",
+        "projectPath": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\source\\repos\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

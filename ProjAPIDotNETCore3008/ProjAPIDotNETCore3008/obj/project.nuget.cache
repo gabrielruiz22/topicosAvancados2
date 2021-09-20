@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AbO4OS0xcuhEgzLr5e0XNTjGnzjB8OV6iKimoxwas6qb5YJ/DHf8l2RLp+SPSnME3bRpp5Xg+/oKTKwJAUfAjA==",
+  "dgSpecHash": "H9BiBTXOlvz2fN1WnzhLEHACgKKfZvNnUEwzTIn67NFn1bAP1p5r5YszxO5XzZAExeKoe1EL5UDwupXAtoLEOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008\\ProjAPIDotNETCore3008.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
