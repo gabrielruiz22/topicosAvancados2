@@ -22,7 +22,7 @@ namespace ProjBibliotecaWeb.Controllers
         // GET: Autors
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Autor.ToListAsync());
+            return View(await _context.Autor.Include(a => a.cidade).ToListAsync());
         }
 
         // GET: Autors/Details/5

@@ -13,5 +13,8 @@ namespace ProjBibliotecaP1.Models
         public String NomeAutor { get; set; }
         public int quantidadeLivrosPublicados { get; set; }
         public virtual Cidade cidade { get; set; }
+
+        [NotMapped]
+        public virtual List<SelectListItem> Cidades { get; set; }
     }
 }
