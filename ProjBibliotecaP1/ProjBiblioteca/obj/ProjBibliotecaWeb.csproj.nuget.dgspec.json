@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\source\\repos\\ProjBibliotecaP1\\ProjBiblioteca\\ProjBibliotecaWeb.csproj": {}
+    "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjBibliotecaP1\\ProjBiblioteca\\ProjBibliotecaWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\source\\repos\\ProjBibliotecaP1\\ProjBiblioteca\\ProjBibliotecaWeb.csproj": {
+    "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjBibliotecaP1\\ProjBiblioteca\\ProjBibliotecaWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\ProjBibliotecaP1\\ProjBiblioteca\\ProjBibliotecaWeb.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjBibliotecaP1\\ProjBiblioteca\\ProjBibliotecaWeb.csproj",
         "projectName": "ProjBibliotecaWeb",
-        "projectPath": "C:\\Users\\gabri\\source\\repos\\ProjBibliotecaP1\\ProjBiblioteca\\ProjBibliotecaWeb.csproj",
+        "projectPath": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjBibliotecaP1\\ProjBiblioteca\\ProjBibliotecaWeb.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\source\\repos\\ProjBibliotecaP1\\ProjBiblioteca\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjBibliotecaP1\\ProjBiblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

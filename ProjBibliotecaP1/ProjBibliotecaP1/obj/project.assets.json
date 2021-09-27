@@ -7335,11 +7335,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gabri\\source\\repos\\ProjBibliotecaP1\\ProjBibliotecaP1\\ProjBibliotecaAPI.csproj",
+      "projectUniqueName": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjBibliotecaP1\\ProjBibliotecaP1\\ProjBibliotecaAPI.csproj",
       "projectName": "ProjBibliotecaAPI",
-      "projectPath": "C:\\Users\\gabri\\source\\repos\\ProjBibliotecaP1\\ProjBibliotecaP1\\ProjBibliotecaAPI.csproj",
+      "projectPath": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjBibliotecaP1\\ProjBibliotecaP1\\ProjBibliotecaAPI.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gabri\\source\\repos\\ProjBibliotecaP1\\ProjBibliotecaP1\\obj\\",
+      "outputPath": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjBibliotecaP1\\ProjBibliotecaP1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

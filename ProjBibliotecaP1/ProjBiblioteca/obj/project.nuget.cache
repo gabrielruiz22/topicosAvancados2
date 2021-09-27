@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GgB7JsN4JaFjg5AVJULnA6T0/KNNrDiC3q8SXP8OVa4nBsyO6kHwnPP9IeYh8MSMYq4YRJ1pl7k2y11UXUszgQ==",
+  "dgSpecHash": "yVdGFR7uiwAYJGdNCAzKiZIXLf3ZEPVv0256U27NyrHqbJNz6jYBfJWxU1EqF3KMKdNStQApogftnlF5eKy/Kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\source\\repos\\ProjBibliotecaP1\\ProjBiblioteca\\ProjBibliotecaWeb.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\ProjBibliotecaP1\\ProjBiblioteca\\ProjBibliotecaWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
