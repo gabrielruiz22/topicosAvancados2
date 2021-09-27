@@ -1,0 +1,41 @@
+﻿@model IEnumerable<ProjBibliotecaP1.Models.Autor>
+
+@{
+    ViewData["Title"] = "Autores";
+}
+
+<h1>Autores</h1>
+
+<p>
+    <a asp-action="Create">Criar novo autor</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NomeAutor)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.quantidadeLivrosPublicados)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomeAutor)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.quantidadeLivrosPublicados)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
