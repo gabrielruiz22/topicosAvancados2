@@ -7,11 +7,9 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using _4patas.Data;
 using _4patas.Models;
-using Microsoft.AspNetCore.Authorization;
 
 namespace _4patas.Controllers
 {
-    [Authorize]
     public class CompraController : Controller
     {
         private readonly ApplicationDbContext _context;

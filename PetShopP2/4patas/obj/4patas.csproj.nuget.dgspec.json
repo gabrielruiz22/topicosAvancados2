@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\Desktop\\Nova pasta\\PetShopP2\\4patas\\4patas.csproj": {}
+    "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\PetShopP2\\4patas\\4patas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\Desktop\\Nova pasta\\PetShopP2\\4patas\\4patas.csproj": {
+    "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\PetShopP2\\4patas\\4patas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\Desktop\\Nova pasta\\PetShopP2\\4patas\\4patas.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\PetShopP2\\4patas\\4patas.csproj",
         "projectName": "4patas",
-        "projectPath": "C:\\Users\\gabri\\Desktop\\Nova pasta\\PetShopP2\\4patas\\4patas.csproj",
+        "projectPath": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\PetShopP2\\4patas\\4patas.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\Desktop\\Nova pasta\\PetShopP2\\4patas\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\Desktop\\TopicosAvancados2\\TopicosAvancadosEmSistemasDeInformacaoII\\PetShopP2\\4patas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
